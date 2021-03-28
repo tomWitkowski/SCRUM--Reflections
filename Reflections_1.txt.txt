@@ -1,0 +1,1 @@
+Wymagania funkcjonale dotyczą tego, czemu ma służyć i w jaki sposób podmiot wymagania, natomiast niefunkcjonalną mogą opisywać np. wizualny zakres podmiotu.

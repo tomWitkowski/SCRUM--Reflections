@@ -1,0 +1,1 @@
+TDD to sposób pracy, w którym każdy etap powinien być zakończony testami zarówno ukończonego etapu, jak i w poszukiwaniu regresji.
